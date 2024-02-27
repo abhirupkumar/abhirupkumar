@@ -1,6 +1,6 @@
 <img align="center" width="1600" alt="Profile" src="https://cdn.dribbble.com/users/2069402/screenshots/5574718/gif-4mb.gif">
 <h1 align="center">Hello there <img width="40" src="https://media.tenor.com/z2xJqhCpneIAAAAM/wave-hand.gif"></h1>
-<h3 align="center">Web Developer | React Native Developer | Programmer | Software Geek</h3>
+<h3 align="center">Full Stack Web Developer | React Native Developer | Programmer | Software Geek</h3>
 <h3>Check out my portfolio website: <a href="https://abhirupkumar.vercel.app">https://abhirupkumar.vercel.app</a></h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
