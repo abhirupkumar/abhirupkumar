@@ -1,7 +1,7 @@
 <img align="center" width="1600" alt="Profile" src="https://cdn.dribbble.com/users/2069402/screenshots/5574718/gif-4mb.gif">
 <h1 align="center">Hello there <img width="40" src="https://media.tenor.com/z2xJqhCpneIAAAAM/wave-hand.gif"></h1>
 <h3 align="center">Web Developer | React Native Developer | Programmer | Software Geek</h3>
-<h3>Check out my portfolio website: <a href="https://abhirupkumar.netlify.app">https://abhirupkumar.netlify.app</a></h3>
+<h3>Check out my portfolio website: <a href="https://abhirupkumar.vercel.app">https://abhirupkumar.vercel.app</a></h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhirupkumar&label=Profile%20views&color=0e75b6&style=flat" alt="abhirupkumar" /> </p>
@@ -12,12 +12,12 @@
 
 - 📫 How to reach me **abhirupkumar2003@gmail.com**
 
-- ⚡ Fun fact **Open minded, BlockChain Enthusiast**
+- ⚡ Fun fact **Open minded, Full Stack Developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/abhirup-kumar-bhowmick-739833237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/abhirup-kumar-bhowmick-739833237" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/abhirup2003" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sayantan_200" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abhirup2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/abhirup2003" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/abhirup2003" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Abhirup2003" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Tech Stack:</h3>
